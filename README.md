@@ -1,2 +1,2 @@
 # Booleanos-e-Porcentagem
-Booleanos e porcentagem : (
+Booleanos e porcentagem
